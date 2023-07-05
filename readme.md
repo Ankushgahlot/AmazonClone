@@ -1,0 +1,13 @@
+amazon_logo.png
+box1_image.jpg
+box2_image.jpg
+box3_image.jpg
+box4_image.jpg
+box5_image.jpg
+box6_image.jpg
+box7_image.jpg
+box8_image.jpg
+cards.png
+hero_image.jpg
+pinn(1).png
+search(1).png
